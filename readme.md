@@ -7,3 +7,8 @@ demo_function_addition(2,3)
 ```
 
 this will return 5
+
+## TODO
+
+- subtraction
+- multiplication
